@@ -1,0 +1,6 @@
+What is the differencr b/w let var const?
+
+
+var: var is a key word which can be declare and initilze more than one time
+let: let is a key word which can be declare  one time and initilze more than one time
+const: const is a key word which can't declare and initilze more than one time
